@@ -42,12 +42,8 @@
 
 <div align="center" style="display:flex;flex-direction:column;">
 
-
 <a href="https://github.com/SPY-STAR0003">
-<img align="center" style="margin-bottom:20px;width:500px;" src="https://github-readme-stats.vercel.app/api?username=SPY-STAR0003&show_icons=true&count_private=true&include_all_commits=true" /></a>
-
-<a href="https://github.com/SPY-STAR0003">
-<img style="margin-bottom:10px;width:500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPY-STAR0003&layout=compact" />
+<img style="margin:30px;width:400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPY-STAR0003&layout=compact" />
 </a>
 
 </div>
