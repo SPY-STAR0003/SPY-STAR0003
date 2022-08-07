@@ -1,33 +1,54 @@
-
-<img align="center" src="./asset/logo/logonomy-1659875386281.jpeg" />
-
-<h2 align="center"> 👋 Welcome 👋 </h2>
-<br>
-<p align="center"> I'm Mohammad Zourmand. </p>
-<p align="center"> I'm a junior react developer and I wanna try everything is about web design, javascript and everything in between. </p>
-
-<br>
-<p align="center"> I’m interested in ... </p>
-<div style="display:flex;justify-content:space-between;width:600px">
-  <img align="center" src="./asset/logo/React_(web_framework)-Logo.wine.png" style="width:200px;height:200px;" />
-  <img align="center" src="./asset/logo/javascript-2189147_1280.webp" style="width:200px;height:200px;"/>
+<div align="center">
+  <img align="center" style="width:300px;height:300px;" src="./asset/logo/logonomy-1659875386281.jpeg" />
 </div>
 
-  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center"> 👋 Welcome 👋 </h3>
+
+<h4 align="center"> I'm Mohammad Zourmand. </h4>
+<h5 align="center"> I'm a junior react developer and I wanna try everything is about web design, javascript and everything in between. </h5>
+
+<br>
+<h3 align="center"> Languages And Tools </h3>
+
+<div align="center">
+    <img src="./asset/logo/js.png" style="width:25px; margin-bottom:16px;" />
+    <img src="./asset/logo/react.png" style="width:25px; margin-bottom:16px;" />
+    <img src="./asset/logo/ts.png" style="width:25px; margin-bottom:16px;" />
+    <img src="./asset/logo/next.png" style="width:25px; margin-bottom:16px;" />
+    <img src="./asset/logo/redux.png" style="width:25px; margin-bottom:16px;" />
+    <img src="./asset/logo/sass.png" style="width:25px; margin-bottom:16px;" />
+</div>
+
+<h3 align="center"> Find me in </h3>
+
+<div align="center">
+  <a href="https://t.me/Zourmand30003">
+    <img src="./asset/logo/telegram.png" style="width:25px; margin-bottom:16px;" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=989020807531">
+    <img src="./asset/logo/whatsapp.png" style="width:25px; margin-bottom:16px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-zourmand-34b700239/">
+    <img src="./asset/logo/linkedin.png" style="width:25px; margin-bottom:16px;" />
+  </a>
+  <a href="https://medium.com/@spystar0003">
+    <img src="./asset/logo/medium.png" style="width:25px; margin-bottom:16px;" />
+  </a>
+   <a href="https://roocket.ir/@SpyStar0003">
+    <img src="./asset/logo/roocket.png" style="width:25px; margin-bottom:16px;" />
+  </a>
+</div>
 
 
-<a href="https://github.com/ghost1372">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPY-STAR0003" />
+<div align="center">
+
+
+<a href="https://github.com/SPY-STAR0003">
+<img align="center" style="margin-bottom:10px;width:500px;" src="https://github-readme-stats.vercel.app/api?username=SPY-STAR0003&show_icons=true&count_private=true&include_all_commits=true" /></a>
+
+<a href="https://github.com/SPY-STAR0003">
+<img style="margin-bottom:10px;width:500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPY-STAR0003&layout=compact" />
 </a>
 
-<a href="https://github.com/ghost1372">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPY-STAR0003&show_icons=true&count_private=true&include_all_commits=true" /></a>
+</div>
 
-<!---
-SPY-STAR0003/SPY-STAR0003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
