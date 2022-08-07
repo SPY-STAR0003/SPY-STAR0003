@@ -1,5 +1,5 @@
-<div align="center">
-  <img align="center" style="width:300px;height:300px;" src="./asset/logo/logonomy-1659875386281.jpeg" />
+<div align="center" style="margin:0;">
+  <img align="center" style="width:300px;height:300px;margin:0;" src="./asset/logo/logonomy-1659875386281.jpeg" />
 </div>
 
 <h3 align="center"> 👋 Welcome 👋 </h3>
@@ -40,11 +40,11 @@
 </div>
 
 
-<div align="center">
+<div align="center" style="display:flex;flex-direction:column;">
 
 
 <a href="https://github.com/SPY-STAR0003">
-<img align="center" style="margin-bottom:10px;width:500px;" src="https://github-readme-stats.vercel.app/api?username=SPY-STAR0003&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<img align="center" style="margin-bottom:20px;width:500px;" src="https://github-readme-stats.vercel.app/api?username=SPY-STAR0003&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
 <a href="https://github.com/SPY-STAR0003">
 <img style="margin-bottom:10px;width:500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPY-STAR0003&layout=compact" />
