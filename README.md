@@ -4,8 +4,8 @@
 
 <h3 align="center"> 👋 Welcome 👋 </h3>
 
-<h4 align="center"> I'm Mohammad Zourmand. </h4>
-<h5 align="center"> I'm a junior react developer and I wanna try everything is about web design, javascript and everything in between. </h5>
+<h3 align="center"> I'm Mohammad Zourmand. </h3>
+<h4 align="center"> I'm a junior react developer and I wanna try everything is about web design, javascript and everything in between. </h4>
 
 <br>
 <h3 align="center"> Languages And Tools </h3>
